@@ -1,1 +1,3 @@
 06-Jul-2023 11:47:57.286 +05:30 [INF] HTTP GET /api/Employee/EmployeeList responded 200 in 1211.1372 ms
+06-Jul-2023 18:40:26.544 +05:30 [INF] HTTP POST /api/Employee/CreateEmployee responded 200 in 1180.6850 ms
+06-Jul-2023 18:40:32.083 +05:30 [INF] HTTP GET /api/Employee/EmployeeList responded 200 in 291.9084 ms

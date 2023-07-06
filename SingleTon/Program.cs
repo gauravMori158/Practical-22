@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Serilog.Events;
 using Serilog;
-using SingleTon.Models;
+ 
 
 var builder = WebApplication.CreateBuilder(args);
 

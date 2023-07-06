@@ -1,4 +1,4 @@
-﻿namespace SingleTon.Models
+﻿namespace ClassLibrary.Models
 {
     public class Employee
     {
